@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil digwal</h1>
 <h3 align="center">A passionate Programmer&Data Scientist from India</h3>
+  <img align="right" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47yx63npbyo7xqdvikcztw9wnp4omepve6biomk33b&rid=giphy.gif&ct=g" alt="coding">
 
-                                                 <img align="right" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47yx63npbyo7xqdvikcztw9wnp4omepve6biomk33b&rid=giphy.gif&ct=g" alt="coding">
-
+                                               
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildigwal&label=Profile%20views&color=0e75b6&style=flat" alt="sahildigwal" /> </p>
 
