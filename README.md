@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil digwal</h1>
 <h3 align="center">A passionate Programmer&Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207…”>
+
                                                  <img align="right" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47yx63npbyo7xqdvikcztw9wnp4omepve6biomk33b&rid=giphy.gif&ct=g" alt="coding">
 
 
